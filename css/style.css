@@ -76,6 +76,7 @@ header{
   display: -webkit-flex; /* Safari */
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 /*Requirement 8*/
