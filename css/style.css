@@ -42,7 +42,8 @@ header{
     display: -webkit-flex; /* Safari */
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
 }
 
 /*Requirement 5*/
@@ -57,6 +58,7 @@ header{
   display: flex;
   flex-direction:column;
   flex-basis: 400px;
+  flex-wrap: wrap;
 }
 
 /*Requirement 6*/
